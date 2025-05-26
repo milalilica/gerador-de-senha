@@ -128,3 +128,35 @@ background-color: var(--fundo-senha);
 height: 30px;
 width: 100px;
 }
+
+.forca{
+    height: 30px;
+    position:relative;
+    bottom: 30px;
+}
+
+.fraca{
+    width: 25%;
+    background-color: red;
+}
+
+.parametro-senha__texto{
+    display: flex;
+    justify-content: space-between;
+}
+
+.media{
+    background-color: yellow;
+    width: 50px;
+}
+
+.forte{
+background-color: green;
+width: 100px;
+}
+
+
+.parametro-senha-textos {
+    display: flex;
+    justify-content: space-between;
+}
